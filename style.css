@@ -1,0 +1,22 @@
+.image1{
+    width: 150px;
+    display: block;
+    
+    
+}
+.card{
+    background-color: rgb(105, 175, 207);
+    
+    padding: 13px;
+    width: 370px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 7px solid #d8cefe ;
+    margin: 0px auto;
+}
+.info{
+    color: rgb(35, 35, 35);
+    text-align: center;
+    font-family: Verdana;
+    
+    
